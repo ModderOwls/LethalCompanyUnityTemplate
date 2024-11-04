@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 88052998
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: grabbables/bodalicious
+      Dependencies: {}
